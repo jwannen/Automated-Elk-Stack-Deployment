@@ -1,0 +1,64 @@
+alias    Create an alias •
+apt-get  Search for and install software packages (Debian/Ubuntu)
+awk      Find and Replace text, database sort/validate/index
+bash     GNU Bourne-Again SHell 
+cal      Display a calendar
+cat      Concatenate and print (display) the content of files
+cd       Change Directory
+chgrp    Change group ownership
+chmod    Change access permissions
+chown    Change file owner and group
+chpasswd Update passwords in batch mode
+chroot   Run a command with a different root directory
+clear    Clear terminal screen
+cp       Copy one or more files to another location
+cron     Daemon to execute scheduled commands
+crontab  Schedule a command to run at a later time
+curl     Transfer data  from or to a server
+cut      Divide a file into several parts
+df       Display free disk space
+dir      Briefly list directory contents
+du       Estimate file space usage
+echo     Display message on screen •
+exec     Execute a command
+exit     Exit the shell
+free     Display memory usage
+grep     Search file(s) for lines that match a given pattern
+groupadd Add a user security group
+groupdel Delete a group
+groupmod Modify a group
+groups   Print group names a user is in
+head     Output the first part of file(s)
+history  Command History
+ifconfig Configure a network interface
+kill     Kill a process by specifying its PID
+killall  Kill processes by name
+less     Display output one screen at a time
+ls       List information about file(s)
+man      Help manual
+mkdir    Create new folder(s)
+more     Display output one screen at a time
+mv       Move or rename files or directories
+nc       Netcat, read and write data across networks
+netstat  Networking connections/stats
+nslookup Query Internet name servers interactively
+passwd   Modify a user password
+ping     Test a network connection
+ps       Process status
+pwd      Print Working Directory
+rm       Remove files
+rmdir    Remove folder(s)
+sed      Stream Editor
+ssh      Secure Shell client (remote login program)
+su       Substitute user identity
+sudo     Execute a command as another user
+tail     Output the last part of file
+uniq     Uniquify files
+useradd  Create new user account
+userdel  Delete a user account
+usermod  Modify user account
+users    List users currently logged in
+wc       Print byte, word, and line counts
+whoami   Print the current user id and name ('id -un')
+wget     Retrieve web pages or files via HTTP, HTTPS or FTP
+zip      Package and compress (archive) files.
